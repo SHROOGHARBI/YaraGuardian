@@ -1,4 +1,8 @@
-
-tkinter
-yara-python
-pdfminer.six
+chardet==5.2.0
+fpdf==1.7.2
+pdfminer.six==20200517
+pycryptodome==3.20.0
+PyPDF2==3.0.1
+sortedcontainers==2.4.0
+watchdog==4.0.1
+yara-python==4.5.1
