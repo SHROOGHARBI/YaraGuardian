@@ -1,0 +1,4 @@
+
+tkinter
+yara-python
+pdfminer.six
